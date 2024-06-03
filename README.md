@@ -16,7 +16,7 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 
 ## Projects
 
-### Cybersecurity Virtual Lab Setup ()
+### Cybersecurity Virtual Lab Setup (https://github.com/suyashRathor/Basic-lab-setup-for-cybersecurity-student)
 
 ### Web Application Penetration Testing Project
 - **Description:** Conducted a comprehensive penetration test on a mock e-commerce web application to identify and exploit security vulnerabilities.

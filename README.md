@@ -16,6 +16,8 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 
 ## Projects
 
+### Cybersecurity Virtual Lab Setup ()
+
 ### Web Application Penetration Testing Project
 - **Description:** Conducted a comprehensive penetration test on a mock e-commerce web application to identify and exploit security vulnerabilities.
 - **Tools Used:** Burp Suite, OWASP ZAP, SQLMap
